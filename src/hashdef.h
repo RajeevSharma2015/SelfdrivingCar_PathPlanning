@@ -20,8 +20,8 @@
 #define TRACK_LENGTH 6945.554              // meters
 
 // number of waypoints to use for interpolation
-#define NUM_WAYPOINTS_BEHIND 5            // Number of waypoint behind - 5
-#define NUM_WAYPOINTS_AHEAD 5             // Number of waypoint ahead - 5
+#define NUM_WAYPOINTS_BEHIND 15            // Number of waypoint behind - 5
+#define NUM_WAYPOINTS_AHEAD  15             // Number of waypoint ahead - 5
 
 // for trajectory generation/evaluation and non-ego car predictions
 #define N_SAMPLES 20
